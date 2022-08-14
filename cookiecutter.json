@@ -1,0 +1,10 @@
+{
+  "author": "",
+  "author_email": "",
+  "github_username": "",
+  "project_name": "ML Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "short_description": "A python ML project",
+  "version": "0.0.1",
+  "line_length": "88"
+}
