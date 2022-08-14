@@ -11,10 +11,7 @@ The generated project has the following structure:
 ```text
 .
 └── my-project/
-    ├── my_project   # shared python code, which can be used in all notebook, `from my_projects import ...` 
-    ├── notebooks    # all .ipynb files go here
-    ├── scripts      # all converted notebooks will be placed here
-    └── tests        # place tests for the shared python code here
+    
 ```
 
 ## Features
